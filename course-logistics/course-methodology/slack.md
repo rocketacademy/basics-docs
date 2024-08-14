@@ -1,12 +1,12 @@
-# 💬 Slack
+# 💬 Community Channels
 
 ## Introduction
 
-Slack is the app we use to communicate within a section. It provides real-time but asynchronous messaging that should feel casual and fun. **The aim is for a good portion of the course **_**not composed of this website, videos or live meetings**_** happens in your section Slack channel.**
+The Rocket LMS platform (rocket.disco.co) provides community channels for real-time but asynchronous messaging that should feel casual and fun. We have provided with a selection of channels, e.g. `#general` for you to keep in touch with your classmates and instructors.
 
-### Slack House Rules
+### Discussion Channels House Rules
 
-The following are a set of guidelines to follow when using Slack at Rocket. By setting strong culture of messaging on this platform for questions and discussion we hope to further enhance the Rocket Fundamentals experience.
+The following are a set of guidelines to follow when using discussion channels at Rocket. By setting strong culture of messaging on this platform for questions and discussion we hope to further enhance the Rocket Fundamentals experience.
 
 ### Ask Questions in the Channel
 
@@ -22,13 +22,13 @@ Contextual questions help the answerer by filling in the details needed to fully
 
 #### How to ask contextual questions
 
-Try to answer the following when asking questions. What is the problem? Include any relevant error messages in text or screenshots. What is your hypothesis? [Include relevant code snippets, formatted as code in Slack.](./#slack-code-snippets) What have you tried? Include any relevant output or Google results. This will not only assist the person helping you, it will actually make you a better coder.
+Try to answer the following when asking questions. What is the problem? Include any relevant error messages in text or screenshots. What is your hypothesis? Include relevant code snippets. What have you tried? Include any relevant output or Google results. This will not only assist the person helping you, it will actually make you a better coder.
 
-### Format Code in Slack
+<!-- ### Format Code in Disco
 
-When sharing code in Slack, it's best to use Slack's built-in code formatting, which creates code blocks with monospaced text for easier reading. For single-line code like variables or files/folders in regular text, we can use a single backtick (\`) at the start and end of the code to format it.
+When sharing code, it's best to use Slack's built-in code formatting, which creates code blocks with monospaced text for easier reading. For single-line code like variables or files/folders in regular text, we can use a single backtick (\`) at the start and end of the code to format it.
 
-### Slack Code Snippets
+### Code Snippets
 
 ![Click the lightning icon](../../.gitbook/assets/slack-snip-1.png)
 
@@ -36,8 +36,8 @@ Click the lightning icon to get message options. Type ahead in the box to get th
 
 ![The Slack Snippet creation interface](../../.gitbook/assets/slack-snip-2.png)
 
-Make sure that your code will be formatted by selecting the JavaScript type. Note how in a snippet the line numbers are displayed. This makes it easier to discuss the code you put in Slack.
+Make sure that your code will be formatted by selecting the JavaScript type. Note how in a snippet the line numbers are displayed. This makes it easier to discuss the code you put in Slack. -->
 
-### Use Threads
+<!-- ### Use Threads
 
-Slack has the ability to nest contextual messages. When you want to reply to a message's topic, use a thread so that messages stay contextual and others can continue to send messages without interrupting a discussion of a specific topic.
+Slack has the ability to nest contextual messages. When you want to reply to a message's topic, use a thread so that messages stay contextual and others can continue to send messages without interrupting a discussion of a specific topic. -->

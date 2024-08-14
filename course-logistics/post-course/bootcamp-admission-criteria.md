@@ -4,7 +4,7 @@
 
 
 
-The knowledge taught in SWE Fundamentals are pre-requisite for entrance into Rocket Academy's Bootcamp.
+The knowledge taught in Coding Fundamentals are pre-requisite for entrance into Rocket Academy's Bootcamp.
 
 Section leaders can share feedback with students each class on their progress if you ask. By the end of Fundamentals, students should be aware of their ability to enrol in the Bootcamp.
 
