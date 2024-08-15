@@ -4,18 +4,17 @@
 
 GUI-application software is software we run with a graphical user interface (GUI) on our operating system.
 
-### Slack
+### Messaging Platform
 
-Slack is a chat software and Rocket's primary mode of communication. It allows us to communicate across our school, within sections, and between individuals. Many tech companies internationally use Slack for internal communication.
+The Rocket LMS platform (rocket.disco.co) provides community channels for real-time but asynchronous messaging that should feel casual and fun. We have provided with a selection of channels, e.g. `#general` for you to keep in touch with your classmates and instructors.
 
-#### **Installation**
+#### Onboarding
 
-1. Download the Slack mobile app from the Android Play Store or iOS App Store
-2. Download the Slack desktop app for your relevant operating system [here](https://slack.com/intl/en-sg/help/categories/360000049043-Getting-started).
+There are 2 stages to onboard a new student:
+1. Join the Rocket Academy community at https://rocket.disco.co as a member
+2. Join the Coding Fundamentals (PF1) Learning Experience product assigned to them
 
-{% hint style="warning" %}
-Slack is one of the cornerstone mediums on which this course operates! Look through the [quick-start guide](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide) if new to slack, and please read through the [Slack House Rules](../course-methodology/#slack-house-rules) before the course begins.
-{% endhint %}
+Once a student joins the community as a member, they can register to join the various learning products that they will be assigned to.
 
 ### Zoom
 
