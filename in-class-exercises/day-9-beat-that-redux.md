@@ -12,7 +12,7 @@ Refer to the [push section](../8-github/8.2-github-fork-and-clone.md#git-push) f
 
 #### 1) Clone Partner's Code
 
-You'll be paired up so that you can exchange the links for your repos via Slack. Remember that the forked repo is the one that is under your GitHub account, not Rocket Academy's. If you have forked the repo but haven't pushed your latest code to GitHub, take a moment now to `git push`. Let your partner know you're updating the repo. Run a `git clone <REPO_URL> <NEW_FOLDER_NAME>` to get a copy of your partner's code.
+You'll be paired up so that you can exchange the links for your repos via your community channel. Remember that the forked repo is the one that is under your GitHub account, not Rocket Academy's. If you have forked the repo but haven't pushed your latest code to GitHub, take a moment now to `git push`. Let your partner know you're updating the repo. Run a `git clone <REPO_URL> <NEW_FOLDER_NAME>` to get a copy of your partner's code.
 
 {% hint style="info" %}
 Note: You need to rename the folder when you clone if you already have a folder named after the repo where you're making the clone.
@@ -51,7 +51,7 @@ Once both partners are done with #1-4, discuss what you saw. Read out and review
 
 You'll be pair programming on one person's project at a time. The goal is to get working versions for each person. **The driver will be the person who is \*not\* working on their own code.**&#x20;
 
-Once done with one person's code, send the code to your pair (it's their project) via a [Slack code snippet](https://slack.com/intl/en-sg/slack-tips/share-code-snippets). Switch to work on the other person's code.
+Once done with one person's code, send the code to your pair (it's their project) via a community channel code snippet. Switch to work on the other person's code.
 
 {% hint style="info" %}
 Note: If you are working on your partner's code you can't push to their repo because GitHub repos are read-only to non-owners by default.

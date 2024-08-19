@@ -18,7 +18,7 @@ Once a student joins the community as a member, they can register to join the va
 
 ### Zoom
 
-Zoom is Rocket's chosen video conferencing software for class. Each section will have its own Zoom room. The link to this room can be found at the top of each section's Slack channel.
+Zoom is Rocket's chosen video conferencing software for class. Each section will have its own Zoom room. The link to this room can be found at the top of each section's community channel.
 
 #### **Installation**
 

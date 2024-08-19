@@ -273,7 +273,7 @@ Twitter Share URL: line [37](https://github.com/rocketacademy/basics-blackjack/b
 
 #### Sharing text: Put your name and some fun text in the share!
 
-For Facebook / Slack / Whatsapp Shares: edit lines [31 & 32](https://github.com/rocketacademy/basics-blackjack/blob/main/index.html#L31-L32) in the index.html
+For Facebook / Slack / Whatsapp / Discord / Disco LMS Shares: edit lines [31 & 32](https://github.com/rocketacademy/basics-blackjack/blob/main/index.html#L31-L32) in the index.html
 
 ```
 <meta property="og:title" content="YOURNAME's BlackJack Game!">

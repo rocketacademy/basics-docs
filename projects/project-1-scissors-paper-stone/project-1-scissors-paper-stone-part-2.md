@@ -75,7 +75,7 @@ Share your work with your Section mates for peer-learning, and with your SLs for
 1. Go to [gist.github.com](https://gist.github.com) and login with your GitHub account.
 2. Copy code from `script.js` into a new gist.
    1. Title the Gist and the file as you wish
-   2. Share your Gist on Slack!
+   2. Share your Gist on your community channel!
 3. Include the following questions, along with your answers, at the top of your gist:
 
 ```
@@ -95,7 +95,7 @@ What's one aspect of your code you would like specific, elaborate feedback on?:
 
 ![GitHub gist](<../../.gitbook/assets/Screenshot 2022-02-05 102013.png>)
 
-Share the link to your gist with your Section in Slack!
+Share the link to your gist with your Section in your community channel!
 
 ## Reference Solution
 

@@ -46,7 +46,7 @@ You'll be pair programming on one person's project at a time.
 
 **The driver will be the person who is **_**not**_** working on their own code.**
 
-Once done with one person's code, send the code to your pair (it's their project) via a [Slack code snippet](https://slack.com/intl/en-sg/slack-tips/share-code-snippets). Switch to work on the other person's code.
+Once done with one person's code, send the code to your pair (it's their project) via a community channel code snippet. Switch to work on the other person's code.
 
 Work on the game in the following order:
 
