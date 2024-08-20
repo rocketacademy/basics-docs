@@ -20,7 +20,7 @@ _**When copying any commands from the Git website, do not copy the dollar sign (
 
 1. Download and install Git for Mac OS by downloading it here: [https://sourceforge.net/projects/git-osx-installer/](https://sourceforge.net/projects/git-osx-installer/)
 2. Verify Git is installed by running `git --version` in the [VSCode terminal](https://code.visualstudio.com/docs/editor/integrated-terminal). This should print out a version number on the next line, e.g., `git version 2.28.0`.
-3. Download and install the [Git Credential Manager.](https://github.com/microsoft/Git-Credential-Manager-Core/releases/download/v2.0.498/gcmcore-osx-2.0.498.54650.pkg)
+3. Download and install the [Git Credential Manager.](https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/install.md)
 
 {% hint style="warning" %}
 To install the Git Credential Manager you may need to allow "unidentified developer apps". (_But don't worry, Git Credential Manager is created by Microsoft_) from instructions [here:](https://support.apple.com/en-sg/guide/mac-help/mh40616/mac)
